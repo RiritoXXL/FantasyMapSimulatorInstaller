@@ -1,0 +1,2 @@
+# FantasyMapSimulatorInstaller
+FantasyMapSimulatorInstaller by RiritoXXL
