@@ -69,6 +69,7 @@ begin
     mp3Handle := BASS_StreamCreateFile(FALSE, PAnsiChar(mp3Name), 0, 0, 0, 0, BASS_SAMPLE_LOOP);
     BASS_Start();
     BASS_ChannelPlay(mp3Handle, False);
+    LoadVCLStyle(ExpandConstant('{tmp}\RubyGraphite.vsf'))
     LoadVCLStyle('RubyGraphite.vsf')
 end;
 procedure DeinitializeSetup();
