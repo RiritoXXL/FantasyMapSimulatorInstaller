@@ -1,2 +1,2 @@
 # FantasyMapSimulatorInstaller
-FantasyMapSimulatorInstaller by RiritoXXL
+This is Repack for Game Fantasy Map Simulator... So Enjoy to use this!!!
